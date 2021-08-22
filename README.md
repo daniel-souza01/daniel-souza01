@@ -4,11 +4,11 @@
 
 🖖 Sou dev front-end júnior. Sempre estudando cada vez mais, rumo ao fullstack!
 
-👨‍💻 Habilidades: HTML, CSS, JavaScript.
+👨‍💻 Habilidades: HTML, CSS e JavaScript.
 
-🚀 Ferramentas: VSCode, Terminal, Git and GitHub.
+🚀 Ferramentas: VSCode, Terminal, Git e GitHub.
 
-🌱 Atualmente estou aprendendo Node.js, Espress.js e mongoDB
+🌱 Atualmente estou aprendendo: Node.js, Espress.js e MongoDB
 
 📫 Entre em contato comigo: ⤵️
 
