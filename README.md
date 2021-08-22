@@ -1,45 +1,23 @@
+# Daniel Souza 
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook daniel">
 
+🖖 Sou dev front-end júnior. Atualmente estudando cada vez mais, rumo ao fullstack!
 
-<p align="left"> 
-  🖖 Sou dev front-end júnior. Atualmente estudando cada vez mais, rumo ao fullstack!
-</p>
+👨‍💻 Habilidades: HTML, CSS, JavaScript.
 
-<p align="left">
-  👨‍💻 Habilidades: <strong>HTML, CSS, JavaScript.</strong>
-</p>
+🚀 Ferramentas: VSCode, Terminal, Git and GitHub.
 
-<p align="left">
-  🚀 Ferramentas: <strong>VSCode, Terminal, Git and GitHub.</strong>
-</p>
+🌱 Atualmente estou aprendendo Node.js, Espress.js e mongoDB
 
-
-<p align="left">
-   Entre em contato comigo: ⤵️
-</p>
-
-<a href="https://www.linkedin.com/in/danielsouzadev/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoinacioneto" /></a>
+📫 Entre em contato comigo: ⤵️
 
 <!--
-<p align="left">
-  <a href="https://www.instagram.com/birobirobiro/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/birobirobiro/"/></a>
-  
-  <a href="https://www.linkedin.com/in/joaoinacioneto" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoinacioneto" /></a>
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
+-->
 
-  <a href="https://www.twitter.com/birobirobiro_/" alt="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
-  <a href="https://www.twitch.tv/birobirobiro/" alt="Twitch">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-
-  <a href="https://www.youtube.com/birobirobiro/" alt="Youtube">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
-</p>  
- -->
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielsouzadev/)](https://www.linkedin.com/in/danielsouzadev/) 
+[![Gmail Badge](https://img.shields.io/badge/-danielsouza51764@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielsouza51764@gmail.com)](mailto:danielsouza51764@gmail.com)
 
 
 <!--
