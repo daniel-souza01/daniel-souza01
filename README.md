@@ -1,8 +1,8 @@
-# Daniel Souza 
+# Daniel Souza <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook daniel">
 
-🖖 Sou dev front-end júnior. Atualmente estudando cada vez mais, rumo ao fullstack!
+🖖 Sou dev front-end júnior. Sempre estudando cada vez mais, rumo ao fullstack!
 
 👨‍💻 Habilidades: HTML, CSS, JavaScript.
 
@@ -18,7 +18,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielsouzadev/)](https://www.linkedin.com/in/danielsouzadev/) 
 [![Gmail Badge](https://img.shields.io/badge/-danielsouza51764@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielsouza51764@gmail.com)](mailto:danielsouza51764@gmail.com)
-
 
 <!--
 ### Hi there 👋
