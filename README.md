@@ -8,7 +8,7 @@
 
 🚀 Ferramentas: VSCode, Terminal, Git e GitHub.
 
-🌱 Atualmente estou aprendendo: Node.js, Espress.js e MongoDB.
+🌱 Atualmente estou aprendendo: TypeScript, ReactJS e NextJS.
 
 📫 Entre em contato comigo: ⤵️
 
