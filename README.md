@@ -1,16 +1,13 @@
-# Daniel Souza <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+# Daniel Souza
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook daniel">
+<!-- Olá, **DanielSouz4/DanielSouz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Olá, sou **desenvolvedor front-end** da Web com ✨ _ReactJS_ ✨
 
-🖖 Sou dev front-end júnior. Sempre estudando cada vez mais, rumo ao fullstack!
+Estou sempre `espandindo meus conhecimentos` em ReactJS e no ecosistema front end web como um todo.
 
-👨‍💻 Habilidades: HTML, CSS e JavaScript.
-
-🚀 Ferramentas: VSCode, Terminal, Git e GitHub.
-
-🌱 Atualmente estou aprendendo: TypeScript, ReactJS e NextJS.
-
-📫 Entre em contato comigo: ⤵️
+Uso em projetos:
+- 👨‍💻 Tecnologias: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS...
+- 🚀 Ferramentas: VSCode, Terminal, Git e GitHub.
 
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
