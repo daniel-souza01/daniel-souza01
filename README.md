@@ -1,6 +1,9 @@
+<img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://github.com/DanielSouz4/assets/blob/829958684c7c7023b87244f60e38025de0cb7ebb/DanielSouz4/master.gif" align="center" width="1500px" height="300px"/>
+  
+
 # Daniel Souza
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook daniel">
+<img src="https://github.com/DanielSouz4/assets/blob/829958684c7c7023b87244f60e38025de0cb7ebb/DanielSouz4/stream.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook daniel">
 
 Olá, sou **desenvolvedor front-end** da Web com ✨ _ReactJS_ ✨
 
