@@ -22,6 +22,8 @@ Olá, sou **desenvolvedor front-end** da Web com ✨ _ReactJS_ ✨
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielsouzadev/)](https://www.linkedin.com/in/danielsouzadev/) 
 [![Gmail Badge](https://img.shields.io/badge/-danielsouza51764@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielsouza51764@gmail.com)](mailto:danielsouza51764@gmail.com)
 
+<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSouz4&layout=compact&langs_count=7&theme=github_dark" />
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSouz4&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
