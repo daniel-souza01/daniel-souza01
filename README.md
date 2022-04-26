@@ -1,30 +1,23 @@
-<img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://github.com/DanielSouz4/assets/blob/728ed14deb71f5e7df323b7d30479e3bb53b0fb7/DanielSouz4/master.gif" align="center" width="1500px" height="300px"/>
-  
-
 # Daniel Souza
 
-<img src="https://github.com/DanielSouz4/assets/blob/728ed14deb71f5e7df323b7d30479e3bb53b0fb7/DanielSouz4/streamer.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook daniel">
+<!-- ### Hi, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> -->
 
-Olá, sou **desenvolvedor front-end** da Web com ✨ _ReactJS_ ✨
+<!-- I’m a Software Engineer. Currently I'm working as a Web and Mobile Educator and Content Producer at [**Rocketseat**](https://github.com/rocketseat-education). 🚀 -->
 
-👨‍💻 Habilidades: HTML, CSS, JavaScript, ReactJS, Saas,TypeScript, Styled Components.
+I’m a Web developer. 
 
-🚀 Ferramentas: VSCode, Terminal, Git e GitHub.
 
-🌱 Diariamente estou expandindo meus conhecimentos em ReactJS.
+#### My current tools 
+- 🌎 Front-end Web with React  
+- 📡 Back-end with Node.js  
+- 🛠️ Typescript  
+- 🧰 And more...  
 
-📫 Entre em contato comigo: ⤵️
+#### 💬 Find me elsewhere
 
-<!--
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-souza01/)](https://www.linkedin.com/in/daniel-souza01/) 
+[![Gmail Badge](https://img.shields.io/badge/-danielsouza51764@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielsouza51764@gmail.com)](mailto:danielsouza51764@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielsouzadev/)](https://www.linkedin.com/in/danielsouzadev/) 
-[![Gmail Badge](https://img.shields.io/badge/-danielsouza51764@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielsouza51764@gmail.com)](mailto:danielsouza51764@gmail.com)
-
-<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-souza01&layout=compact&langs_count=7&theme=github_dark" />
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSouz4&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
