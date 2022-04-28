@@ -3,7 +3,7 @@
 <p align="center">I'm a web application developer using JavaScript, TypeScript, React, Node and more...</p>
 
 <details>
-	<summary><b>My current tools :</b></summary>
+	<summary><b>My current tools:</b></summary>
 	</br>
 
 - 🌎 Front-end Web with React  
@@ -13,7 +13,7 @@
 </details>
 
 <details>
-	<summary><b>👨‍💻 Languages and Tools :</b></summary>
+	<summary><b>👨‍💻 Languages and Tools:</b></summary>
 	</br>
 	
 <img align="center" title="javascript" alt="javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -29,15 +29,21 @@
 <img align="center" title="css" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" title="nextjs" alt="nextjs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 <img align="center" title="sass" alt="sass" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+<img align="center" title="styled components" alt="styled components" height="40" width="40" src="https://github.com/daniel-souza01/assets/blob/main/DanielSouz4/styled-components-icon.png">
 <img align="center" title="eslint" alt="eslint" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
 <img align="center" title="vscode" alt="vscode" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   
 <img align="center" title="linux" alt="linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
 <img align="center" title="bash" alt="bash" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"> 
 
+</br>
+</br>
+
+<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-souza01&layout=compact&langs_count=7&theme=github_dark" />
+
 </details>
 
 <details>
-	<summary><b>💬 Find me elsewhere :</b></summary>
+	<summary><b>📫 Find me elsewhere:</b></summary>
 	</br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-souza01/)](https://www.linkedin.com/in/daniel-souza01/) 
