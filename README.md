@@ -3,17 +3,17 @@
 <p align="center">I'm a web application developer using JavaScript, TypeScript, React, Node and more...</p>
 
 <details>
-	<summary><b>My current tools:</b></summary>
+	<summary><b>👨‍💻 My greatest skills:</b></summary>
 	</br>
 
-- 🌎 Front-end Web with React  
-- 📡 Back-end with Node.js  
-- 🛠️ Typescript  
-- 🧰 And more...  
+- 🌎 Front-end Web implementation with React  
+- 📡 Building Back-end with Node.js  
+- 🛠️ Javascrip e Typescript  
+- :crystal_ball: And more...  
 </details>
 
 <details>
-	<summary><b>👨‍💻 Languages and Tools:</b></summary>
+	<summary><b>:computer: Languages and Tools:</b></summary>
 	</br>
 	
 <img align="center" title="javascript" alt="javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-	<summary><b>📫 Find me elsewhere:</b></summary>
+	<summary><b>📫 How to reach me:</b></summary>
 	</br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-souza01/)](https://www.linkedin.com/in/daniel-souza01/) 
