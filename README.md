@@ -23,19 +23,17 @@
 <img align="center" title="express" alt="express" height="40"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
 <img align="center" title="git" alt="git" height="40"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="center" title="postgresql" alt="postgresql" height="40"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-
 <img align="center" title="docker" alt="docker" height="40"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-
-
-<img align="center" alt="Marcos-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Marcos-Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" >
-  <img align="center" alt="Marcos-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcos-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" title="jest" alt="jest" height="40"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+<img align="center" title="html" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" title="css" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" title="nextjs" alt="nextjs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+<img align="center" title="sass" alt="sass" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+<img align="center" title="eslint" alt="eslint" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
+  
  
-  <img align="center" alt="Marcos-Vscode" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   
-  <img align="center" alt="Marcos-Vim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-  <img align="center" alt="Marcos-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" > 
-  <img align="center" alt="Marcos-Win" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/windows-10.png"/>
+<img align="center" title="vscode" alt="vscode" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   
+<img align="center" title="linux" alt="linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
 
 </details>
 
