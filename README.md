@@ -1,6 +1,6 @@
-<h3 align="center"><samp>&gt; Hi there, I'm Daniel Souza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hi there" /></samp></h3>
+<h3 align="center">Hi there, I'm Daniel Souza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hi there" /></h3>
 
-<p align="center"> <samp>「 I'm a web application developer using JavaScript, TypeScript, React, Node and more... 」</samp> </p>
+<p align="center">I'm a web application developer using JavaScript, TypeScript, React, Node and more...</p>
 
 <details>
 	<summary><b>My current tools :</b></summary>
