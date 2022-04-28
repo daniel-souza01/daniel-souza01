@@ -30,10 +30,9 @@
 <img align="center" title="nextjs" alt="nextjs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 <img align="center" title="sass" alt="sass" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 <img align="center" title="eslint" alt="eslint" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
-  
- 
 <img align="center" title="vscode" alt="vscode" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   
 <img align="center" title="linux" alt="linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
+<img align="center" title="bash" alt="bash" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"> 
 
 </details>
 
