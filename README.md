@@ -8,7 +8,7 @@
 
 - 🌎 Front-end Web implementation with React  
 - 📡 Building Back-end with Node.js  
-- 🛠️ Javascrip e Typescript  
+- 🛠️ Javascrip and Typescript  
 - :crystal_ball: And more...  
 </details>
 
